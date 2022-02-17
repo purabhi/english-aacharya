@@ -103,20 +103,20 @@ color:black;}
 
 @media screen and (max-width: 450px){   
     #main-img{      
-        content:url("images/1.1.jpg");
+        content:url("1.1.jpg");
     } 
 }
 
 
 @media screen and(max-width: 1200px) {    
      #main-img{         
-         content:url("images/1.jpg");   
+         content:url("1.jpg");   
      } 
 }
 
     .page-footer {
     
-    background-image:url(images/images.jpg);
+    background-image:url(images.jpg);
     
   -webkit-background-size: cover;
   -moz-background-size: cover;

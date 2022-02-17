@@ -116,7 +116,7 @@ color:black;}
 
     .page-footer {
     
-    background-image:url(images.jpg);
+    background-image:url("images.jpg");
     
   -webkit-background-size: cover;
   -moz-background-size: cover;
